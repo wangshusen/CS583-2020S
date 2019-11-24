@@ -4,15 +4,13 @@ CS583: Deep Learning
 
 > Instructor: Shusen Wang
 
-> TA: Yao Xiao
-
 
 Description
 ---------
 
 **Meeting Time:**
 
-- Thursday, 6:30-9:00 PM, North Building 102
+- Thursday, 6:30-9:00 PM, TBD
 
 
 **Office Hours:**
@@ -45,7 +43,7 @@ Schedule
 ---------
 
 
-- Aug 29, Preparations
+- Preparations
 
 	* Install the software packages by following [[this](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Prepare/HM.pdf)]
 	
@@ -54,21 +52,14 @@ Schedule
 	* Finish the [[sample questions](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Quiz1-Sample/Q1.pdf)] before Quiz 1.
 
 
-- Aug 29, Lecture 1
+- Jan 23, Lecture 1
 
     * Fundamental ML problems
     
     * Regression
     
-
-- Sep 5, **Quiz 1** after the lecture (around 5\% of the total)
-
-	* Coverage: vectors norms ($\ell_2$-norm, $\ell_1$-norm, $\ell_p$-norm, $\ell_\infty$-norm), vector inner product, matrix multiplication, matrix trace, matrix Frobenius norm, scalar function differential, convex function, use Numpy to construct vectors and matrices.
-	
-	* Policy: Printed material is allowed. No electronic device (except for electronic calculator). 
-
-
-- Sep 5, Lecture 2
+    
+- Jan 30, Lecture 2
 
     * Read these before coming: 
     [[Matrix Calculus](https://github.com/wangshusen/CS583A-2019Spring/blob/master/reading/MatrixCalculus.pdf)]
@@ -76,15 +67,25 @@ Schedule
     
     * Regression (Cont.)
     
-    * Classification: logistic regression.
+    * Classification: logistic regression and SVM.
     
     
     
-- Sep 12, Lecture 3
+- Feb 6, Lecture 3
     
-    * Classification: SVM, softmax classifier, and KNN.
+    * Classification: softmax classifier and KNN.
 
-- Sep 19, Lecture 4
+
+
+- Feb 6, **Quiz 1** after the lecture (around 5\% of the total)
+
+	* Coverage: vectors norms ($\ell_2$-norm, $\ell_1$-norm, $\ell_p$-norm, $\ell_\infty$-norm), vector inner product, matrix multiplication, matrix trace, matrix Frobenius norm, scalar function differential, convex function, use Numpy to construct vectors and matrices.
+	
+	* Policy: Printed material is allowed. No electronic device (except for electronic calculator). 
+  
+
+
+- Feb 13, Lecture 4
 
     * Read Sections 1 to 3 before coming: [[SVD and PCA](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/SVD/svd.pdf)]
 
@@ -99,144 +100,77 @@ Schedule
     * Neural networks.
 
 
-- Sep 26, Lecture 5
+- Feb 20, Lecture 5
     
     * Keras.
     
     * Convolutional neural networks (CNNs).
 
 
-- Oct 3, Lecture 6
+- Feb 27, Lecture 6
 
     * Finish reading the note before coming: [[neural networks and backpropagation](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/BP/bp.pdf)]
     
     * CNNs (Cont.)
 
 
-- Oct 10, Lecture 7
+- Mar 5, Lecture 7
     
     * CNNs (Cont.)
     
-    * Parallel computing.
-    
-    * Finish reading the note before coming: [[parallel computing](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)]
-    
 
-- Oct 17, Lecture 8
+- Mar 12, Lecture 8
 
     * Recurrent neural networks (RNNs).
     
 
-- Oct 24, Lecture 9
-    
-    * Quiz 2
-
-
-- Oct 31, Lecture 10
-
-    * Text Generation.
-    
-    * Machine translation.
-
-
-- Nov 7, Lecture 11
-
-    * Attention.
-    
-    * Transformer.
-
-    * Autoencoders.
-
-
-- Nov 14, Lecture 12
-
-    * Adversarial robustness.
-    
-    * GANs.
-
-	* Variational autoencoder (VAE).
-
-
-- Nov 21, Lecture 13
-
-	* Preview the slides before coming: [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_1.pdf)]
-	
-	* Deep reinforcement learning.
-
-
-- Dec 5, **Final Exam**
-
-
-- Dec 12, Selected Project Presentation
 
 
 
 
 Assignments and Bonus Scores
 ---------
-- Course Project
-
-	* Submit a proposal to Canvas before Oct 20.
-	
-	* Submit everything to Canvas before Dec 1.
-	
-- Project Presentation
-
-	* Voluntary, up to 5 bonus scores.
-	
-	* Submit relevant information to Canvas before Dec 1.
-	
-	* Up to 7 teams will be selected.
-	
 
 - Homework 1: Linear Algebra Basics
 
 	* Available only on Canvas (auto-graded.)
 	
-	* Submit to Canvas before Sep 22.
+	* Submit to Canvas before [TBD].
 	
+   * You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
+	
+ 
+- Homework 2: Implement Numerical Optimization Algorithms (Voluntary)
+
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
+
+	* Submit to Canvas before [TBD].
+
  	
-- Homework 2: Machine Learning Basics
+- Homework 3: Machine Learning Basics
 
 	* Available only on Canvas (auto-graded.)
 
-	* Submit to Canvas before Oct 6.
+	* Submit to Canvas before [TBD].
 	
  
-- Homework 3: Implement a Convolutional Neural Network
+- Homework 4: Implement a Convolutional Neural Network
 
-	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2019F/tree/master/homework)].
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
-	* Submit to Canvas before Oct 27.
+	* Submit to Canvas before [TBD].
 	
  
-- Homework 4: Implement a Recurrent Neural Network
+- Homework 5: Implement a Recurrent Neural Network
 
-	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2019F/tree/master/homework)].
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
-	* Submit to Canvas before Nov 17.
+	* Submit to Canvas before [TBD].
 	
 	* You may get up to 3 bonus scores by doing extra work. 
 	
- 
-- Homework 5: Implement an Autoencoder Network
-
-	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2019F/tree/master/homework)].
 	
-	* Submit to Canvas before Dec 1.
-	
- 
-- Bonus 1: Implement Numerical Optimization Algorithms (Voluntary)
-
-	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2019F/tree/master/homework)].
-	
-    * You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
-	
-	* Submit to Canvas before Oct 26 (firm deadline).
-	
-	* You may get up to 2 bonus scores. 
-
-- Bonus 2: Implement Numerical Optimization Algorithms (Voluntary)
+- Bonus 1: Implement Parallel Algorithms (Voluntary)
 
 	* Available at Canvas.
 	
@@ -244,8 +178,15 @@ Assignments and Bonus Scores
 	
 	* You can choose to implement Federated Averaging or/and Decentralized Optimization. You may get up to 2 bonus points for each. 
 	
-	* Submit to Canvas before Nov 24 (firm deadline).
+	* Submit to Canvas before [TBD] (firm deadline).
 
+ 
+- Bonus 2: Implement an Autoencoder Network (Voluntary)
+
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
+	
+	* Submit to Canvas before [TBD] (firm deadline).	
+	
 
 
  
