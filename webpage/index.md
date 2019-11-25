@@ -141,9 +141,8 @@ Assignments and Bonus Scores
 - Homework 2: Implement Numerical Optimization Algorithms (Voluntary)
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
-
-   * You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
-
+	* You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
+	
 	* Submit to Canvas before Feb 23.
 
  	
@@ -184,6 +183,8 @@ Assignments and Bonus Scores
 - Bonus 2: Implement an Autoencoder Network (Voluntary)
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
+	
+	* You may get up to 1 bonus point. 
 	
 	* Submit to Canvas before May 1 (firm deadline).	
 	
