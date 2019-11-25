@@ -135,37 +135,37 @@ Assignments and Bonus Scores
 
 	* Available only on Canvas (auto-graded.)
 	
-	* Submit to Canvas before [TBD].
-	
-   * You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
+	* Submit to Canvas before Feb 6.
 	
  
 - Homework 2: Implement Numerical Optimization Algorithms (Voluntary)
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 
-	* Submit to Canvas before [TBD].
+   * You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
+
+	* Submit to Canvas before Feb 23.
 
  	
 - Homework 3: Machine Learning Basics
 
 	* Available only on Canvas (auto-graded.)
 
-	* Submit to Canvas before [TBD].
+	* Submit to Canvas before Mar 8.
 	
  
 - Homework 4: Implement a Convolutional Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
-	* Submit to Canvas before [TBD].
+	* Submit to Canvas before Mar 22.
 	
  
 - Homework 5: Implement a Recurrent Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
-	* Submit to Canvas before [TBD].
+	* Submit to Canvas before Apr 12.
 	
 	* You may get up to 3 bonus scores by doing extra work. 
 	
@@ -178,14 +178,14 @@ Assignments and Bonus Scores
 	
 	* You can choose to implement Federated Averaging or/and Decentralized Optimization. You may get up to 2 bonus points for each. 
 	
-	* Submit to Canvas before [TBD] (firm deadline).
+	* Submit to Canvas before Apr 5 (firm deadline).
 
  
 - Bonus 2: Implement an Autoencoder Network (Voluntary)
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
-	* Submit to Canvas before [TBD] (firm deadline).	
+	* Submit to Canvas before May 1 (firm deadline).	
 	
 
 
@@ -373,25 +373,6 @@ This part introduces how to attack neural networks using adversarial examples an
 
 
 
-Project
----------
-Every student need to participate in a [Kaggle competition](https://www.kaggle.com/competitions). 
-
-- **Details**: [[click here](https://github.com/wangshusen/CS583A-2019Spring/blob/master/project/Project/proj.pdf)] and download.
-   
-- **Teamwork policy**: You had better work on your own project. Teamwork (up to 3 students) is allowed if the competition has a heavy workload; the workload and team size will be considered in the grading.
-
-- **Grading policy**: See the evaluation form [[click here](https://github.com/wangshusen/CS583A-2019Spring/blob/master/project/Evaluation/Evaluation.pdf)]. An OK but not excellent work typically lose 3 points.
-    
-    
-Alternatively, one can work on any deep learning research project and submit a research paper style report. Note that the requirement is much higher than a Kaggle project:
-
-- It will be evaluated as if it is a research paper submitted to ICML/CVPR/KDD. If it does not have sufficient novelty and technical contribution, it will receive a low score.
-
-- It cannot be a paper that published or posted on arXiv **before** the course begins. It is supposed done during this semester.
-
-
-
 
 Textbooks
 ---------
@@ -423,22 +404,18 @@ Grading Policy
 
 **Weights**:
 
-- Homework 40\%
+- Homework 50\%
 
-- Quizzes 20\% (students' average score is likely around 17)
+- Quizzes 25\% (students' average score is likely around 20)
 
-- Final 20\% (students' average score is likely around 16)
+- Final 25\% (students' average score is likely around 20)
 
-- Project 20\%  (students' average score is likely around 17)
-
-- Bonus (7\% from bonus assignments; 3\% from HM4; 5\% from course project presentation.)
+- Bonus (5\% from bonus assignments; 3\% from HM4.)
 
 
 **Expected grade on record**:
 
-- In the previous semester, the students' average scores in the quiz, final, and project are respectively 85\%, 80\%, and 85\%.
-
-- Thus, an average student is expected to lose at least 3+4+3=10 points. 
+- An average student is expected to lose at least 5+5=10 points. 
 
 - If an average student does not collect any bonus score, his grade on record is expected to be "B+".
 An average student needs at least 3 bonus scores to get "A".
@@ -452,6 +429,6 @@ An average student needs at least 3 bonus scores to get "A".
 
 - All the deadlines for bonus are firm. Late submission will not receive bonus score.
 
-- Dec 20 is the firm deadline for all the homework and the course project. Submissions later than the firm deadline will not be graded.
+- May 1 is the firm deadline for all the homework and the course project. Submissions later than the firm deadline will not be graded.
 
 
