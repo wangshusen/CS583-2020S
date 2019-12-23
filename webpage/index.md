@@ -166,7 +166,7 @@ Assignments and Bonus Scores
 	
 	* Submit to Canvas before Apr 12.
 	
-	* You may get up to 3 bonus scores by doing extra work. 
+	* You may get up to 2 bonus scores by doing extra work. 
 	
 	
 - Bonus 1: Implement Parallel Algorithms (Voluntary)
@@ -308,18 +308,18 @@ This part introduces RNNs and its applications in natural language processing (N
     [[reference-1](https://distill.pub/2016/augmented-rnns/)]
     [[reference-2](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
     
+    
+5. **Language Models beyond RNNs.**
+
     * Transformer model: beyond RNNs. 
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_7.pdf)]
     [[reference](https://arxiv.org/pdf/1706.03762.pdf)]
     
-    * Further reading: 
-        
-        - [[GloVe: Global Vectors for Word Representation](http://www.aclweb.org/anthology/D14-1162)]
-        
-        - [[Neural Word Embedding as Implicit Matrix Factorization](https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)]
+    * Pre-train Transformer using BERT. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/9_RNN_8.pdf)]
+    [[reference](https://arxiv.org/pdf/1810.04805.pdf)]
 
 
-5. **Autoencoders.**
+6. **Autoencoders.**
 This part introduces autoencoders for dimensionality reduction and image generation.
 
     * Autoencoder for dimensionality reduction.
@@ -329,13 +329,13 @@ This part introduces autoencoders for dimensionality reduction and image generat
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/8_AE_2.pdf)]
 
     
-6. **Generative Adversarial Networks (GANs).** 
+7. **Generative Adversarial Networks (GANs).** 
 
     * DC-GAN [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/12_GAN.pdf)]
 
 
 
-7. **Recommender system.** 
+8. **Recommender system.** 
 This part is focused on the collaborative filtering approach to recommendation based on the user-item rating data.
 This part covers matrix completion methods and neural network approaches. 
 
@@ -343,7 +343,7 @@ This part covers matrix completion methods and neural network approaches.
     [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/10_Recommender.pdf)]
 
     
-8. **Deep Reinforcement Learning.** 
+9. **Deep Reinforcement Learning.** 
 
     * Reinforcement learning [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_1.pdf)] [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/DRL/DRL.pdf)]
 
@@ -356,12 +356,16 @@ This part covers matrix completion methods and neural network approaches.
     * AlphaGo [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/13_RL_5.pdf)]
 
 
-9. **Parallel Computing.** 
+10. **Parallel Computing.** 
 
-	* Parallel computing for empirical risk minimization. [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)]
+	* Basics and MapReduce. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_1.pdf)] [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] [[Video (in Chinese)](https://youtu.be/gVcnOe6_c6Q)]
+	
+	* Parameter Server and Decentralized Network. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_2.pdf)] [[Video (in Chinese)](https://youtu.be/Aga2Lxp3G7M)]
+	
+	* Federated Learning. [[slides](https://github.com/wangshusen/DeepLearning/blob/master/Slides/14_Parallel_3.pdf)] [[Video (in Chinese)](https://youtu.be/STxtRucv_zo)]
 
 
-10. **Adversarial Robustness.**
+11. **Adversarial Robustness.**
 This part introduces how to attack neural networks using adversarial examples and how to defend from the attack.
 
 	* Data evasion attack and defense.
@@ -371,7 +375,6 @@ This part introduces how to attack neural networks using adversarial examples an
     * Further reading:
     [[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)]
     
-
 
 
 
