@@ -171,7 +171,7 @@ Assignments and Bonus Scores
 	
 - Bonus 1: Implement Parallel Algorithms (Voluntary)
 
-	* Available at Canvas.
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
 	
 	* You will need the knowledge in the lecture note: [[Parallel Computing](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)]
 	
