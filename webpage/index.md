@@ -10,12 +10,12 @@ Description
 
 **Meeting Time:**
 
-- Thursday, 6:30-9:00 PM, TBD
+- Thursday, 6:30-9:00 PM, Gateway South 021
 
 
 **Office Hours:**
 
-- Thursday, 3:00 - 5:00 PM, Gateway South 354
+- Thursday, 3:00-5:00 PM, Gateway South 354
 
 
 
