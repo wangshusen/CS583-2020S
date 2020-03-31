@@ -129,14 +129,6 @@ Schedule
     * Text processing.
     
     * Simple RNN.
-    
-- Mar 12, Quiz 2 after the lecture  (Canceled)
-
-	* Coverage: vector and matrix operations, gradients, ML basics, neural networks, CNNs, parallel computing.
-	
-	* Policy: Printed material, notes, and books are allowed. No electronic device (except electronic calculator). 
-
-	* Sample: [[click here](https://github.com/wangshusen/CS583-2020S/blob/master/homework/Exam-Sample/Sample.pdf)]
 
     
 - Mar 19, Lecture 9
@@ -154,27 +146,51 @@ Schedule
     
 - Apr 2, Lecture 11
 
-    * Adversarial robustness.
-    
     * SVD and PCA.
-    
-    
-- Apr 9, Lecture 12
 
     * Autoencoders.
     
     * Variational Autoencoder (VAE).
+    
+    
+- Apr 9, online Quiz 2 before the lecture
+
+	* Coverage: vector and matrix operations, gradients, ML basics, neural networks, CNNs, parallel computing.
+	
+	* Time limit: 30 minutes. 
+
+	* Sample: [[click here](https://github.com/wangshusen/CS583-2020S/blob/master/homework/Exam-Sample/Sample.pdf)]
+	
+    
+- Apr 9, Lecture 12
 
     * GAN.
     
+    * Adversarial robustness.
+
+    * Monte Carlo
+
+    * Reinforcement learning: basics
+    
+    
 - Apr 16, Lecture 13
 
-    * Deep Reinforcement Learning.
+    * Deep reinforcement learning.
     
+    
+- Apr 23, online Quiz 3 before the lecture
+
+	* Coverage: ML basics, CNNs, RNN, and Transformer.
+	
+	* Time limit: 30 minutes. 
+
     
 - Apr 23, Lecture 14
 
-    * Deep Reinforcement Learning.    
+    * Deep reinforcement learning.    
+
+    * Collaborative filtering.   
+    
     
 - Apr 30, Lecture 15
 
