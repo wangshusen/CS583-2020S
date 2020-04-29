@@ -166,38 +166,43 @@ Schedule
 
     * GAN.
     
-    * Adversarial robustness.
-
-    * Monte Carlo
-
-    * Reinforcement learning: basics
+    * Data evasion attak.
+    
+    * Data poisoning attack.
     
     
 - Apr 16, Lecture 13
+
+    * Monte Carlo
 
     * Deep reinforcement learning.
     
     
 - Apr 23, online Quiz 3 before the lecture
 
-	* Coverage: ML basics, CNNs, RNN, and Transformer.
+	* Coverage: ML basics, CNNs, RNNs, Transformer, and reinforcement learning.
 	
 	* Time limit: 30 minutes. 
 
     
 - Apr 23, Lecture 14
 
-    * Deep reinforcement learning.    
+    * Policy-based reinforcement learning.
 
-    * Collaborative filtering.   
+    * Actor-critic method.
     
     
-- Apr 30, Lecture 15
+    
+- Apr 30, Lecture 15  
 
-    * TBD.
+    * AlphaGo.
+
+    * Meta learning.
 
     
-	
+- May 14, online Final Exam
+
+
 
 
 
@@ -297,9 +302,9 @@ Grading Policy
 
 - Homework 50\%
 
-- Quizzes 25\% (students' average score is likely around 20)
+- Quizzes 30\% (students' average score is likely around 20)
 
-- Final 25\% (students' average score is likely around 20)
+- Final 20\% (students' average score is likely around 20)
 
 - Bonus
 
