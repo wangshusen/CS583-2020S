@@ -297,14 +297,32 @@ Textbooks
 
 Grading Policy
 ---------
+**Grades**:
+
+- **A**: 93 and above.
+
+- **A-**: [90, 93)
+
+- **B+**: [87, 90)
+
+- **B**: [83, 87)
+
+- **B-**: [80, 83)
+
+- **C+**: [77, 80)
+
+- **C**: [73, 77)
+
+- **Fail**: below 73
+
 
 **Weights**:
 
 - Homework 50\%
 
-- Quizzes 30\% (students' average score is likely around 20)
+- Quizzes 30\%
 
-- Final 20\% (students' average score is likely around 20)
+- Final 20\%
 
 - Bonus
 
